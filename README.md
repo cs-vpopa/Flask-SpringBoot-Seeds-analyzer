@@ -21,7 +21,7 @@ Routes
 
 •	/: Home page -  accepts POST requests with seed features and returns the predicted seed type.
 
-# Spring Boot Application
+## Spring Boot Application
 The Spring Boot app manages user authentication with features like registration and login.
 
 1.	Install Java and Maven.
